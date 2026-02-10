@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: 49ce8d的个人主页
 
 # Your name to show in the footer
-author: Some Person
+author: 49ce8d
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -85,7 +85,7 @@ social-network-links:
 #  strava: youruserid
 
 # If you want your website to generate an RSS feed, provide a description
-# The URL for the feed will be https://<your_website>/feed.xml
+# The URL for the feed will be https://ralseir98.github.io
 rss-description: This website is a virtual proof that I'm awesome
 
 ###########################
