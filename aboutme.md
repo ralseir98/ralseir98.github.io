@@ -7,9 +7,7 @@ subtitle: 【钥大神】49ce8d 2026/2/10 13:48:49
 我叫迷当，别问我您贵姓。
 
 - 我今年今天是70岁了。我没有朋友，我只有兔子。
-- 在案发现场中，受害者的手机上正在播放Pokemon Mystery Dungeon4]- Nuzleaf's House (Piano Cover by Bespinben)。发生了什么？
-
-What else do you need?
+- 在案发现场中，受害者的手机上正在播放**Pokemon Mystery Dungeon4- Nuzleaf's House (Piano Cover by Bespinben)**。发生了什么？
 
 ### My story
 
