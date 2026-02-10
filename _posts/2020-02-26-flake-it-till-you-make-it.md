@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 草系宝可梦的灼热
-subtitle: From:Pokemon Super Mystery Dungeon - Nuzleaf
+subtitle: Pokemon Super Mystery Dungeon - Nuzleaf
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
