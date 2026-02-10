@@ -11,6 +11,6 @@ author: 迷e蛋洒
 
 Me：（￣︶￣）
 
-My brain: Nuzleaf had ti watch himself physically and emotionally hurt the player and he couldn't do anything about it until he was out of dark matter's control.
+My brain: Nuzleaf had to watch himself physically and emotionally hurt the player and he couldn't do anything about it until he was out of dark matter's control.
 
 Me:Σ(っ °Д °;)っ
